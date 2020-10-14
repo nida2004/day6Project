@@ -6,5 +6,6 @@ public class hello {
         //hello
         //second line
         //third line
+        //master new line commit
     }
 }
